@@ -1,0 +1,17 @@
+# project information
+github-organization: 'daisy-consortium'
+github-project: 'amis'
+trac-server: 'http://daisy-trac.cvsdude.com'
+trac-project: 'amis'
+
+# credentials
+github-login: ''
+github-password: ''
+trac-login: ''
+trac-password: ''
+
+# ask before importing duplicates
+check-duplicates: True
+
+# automatically ignore suspected duplicates
+ignore-duplicates: False
